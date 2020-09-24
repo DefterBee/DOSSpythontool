@@ -1,4 +1,4 @@
-# DDOSSpythontool
+# DOSSpythontool
 Simple ddos coded with python
 
 
